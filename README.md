@@ -1,2 +1,2 @@
 # ChatApplication
- 
+The objective of this project is to develope a network application based on client/server architecture using sockets API using java, where a multi-threaded server allows multiple clients to chat with each other. The application is based on a client/server architecture, where a client side and a server side must be implemented. The server will run at port 6000 where it listens for incoming connection requests. The chat application is composed of a network of multiple interconnected chat servers. Once users are connected to one of the chat servers, they can converse with other users connected to any chat server in the network. 
